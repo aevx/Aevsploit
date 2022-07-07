@@ -1,0 +1,1 @@
+document.getElementById('hatapass').style.display = 'block';

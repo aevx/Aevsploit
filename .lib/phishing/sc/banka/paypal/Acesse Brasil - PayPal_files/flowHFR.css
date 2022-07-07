@@ -1,0 +1,14 @@
+#resetPassword ul {list-style:inside square; padding-left:0px; padding-top:6px;}
+#resetPassword li {padding-left:5px;}
+.deactivate {margin-left:177px; _margin-left:185px; border:1px solid #b3b3b3; font-weight:bold; font-size:0.91em; padding:3px; color:#b3b3b3; width:9.5em;}
+.btn_reset {background:#afc8f1 url(/en_US/i/btn/btn_secondary_1x50.gif) repeat-x top left; border:1px solid #85a7ca; font-size:0.91em; padding:3px; color:#336699; width:9.5em; font-weight:bold; margin-left:177px; _margin-left:185px;}
+.greySmallText {color:#999;font-size:0.91em;}
+#resetPasswordMain {background:url(/en_US/i/scr/scr_gradientdown.gif) repeat-x bottom center; margin:20px 10px 40px 10px; padding:15px 5px 5px 10px;}
+#loginConfirmNewPassword {margin-top:13px; height:168px; width:589px; background:url(/en_US/i/header/hdr_LoginWithNewPassword_589wx168h.jpg) no-repeat;}
+.HFRLoginTransparent {width:92px; float:right; margin-top:118px; margin-right:35px; _margin-right:10px;}
+#HFRLogin {margin:120px 0 0 460px;}
+#quickEasyContent {padding-top:20px; padding-bottom:7px;}
+#quickEasyContent ul {margin-top:12px;}
+#quickEasyContent li {line-height:18px;}
+#loginButton {text-align:right; padding-top:8px; _padding-top:2px;}
+#retryPasswordContent {padding-top:20px; padding-bottom:15px;}
