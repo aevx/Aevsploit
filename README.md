@@ -6,7 +6,7 @@ https://www.hizliresim.com/7am7siz
 
 
 ### Kurulum
-#-----
+## •
 ```
 cd && rm -rf Aevsploit
 apt install git python -y
