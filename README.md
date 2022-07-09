@@ -8,7 +8,7 @@
 ### Kurulum
 
 ```
-cd && rm -rf Aevsploit
+cd && rm -rf Aevsploit && apt update
 ```
 
 ```
