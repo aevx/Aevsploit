@@ -16,7 +16,7 @@ apt install git python -y
 ```
 
 ```
-git clone https://github.com/aevx/Aevsploit```
+git clone https://github.com/aevx/Aevsploit
 ```
 ```
 cd Aevsploit
