@@ -34,4 +34,5 @@ python aevsploit.py
 
 #### Bağış
 
-_Papara_ ```1427113016```
+_Papara:_ ```1427113016```
+_Ücretsiz Bağış:_ [Bağış Yap](https://ay.link/8Ls5)
