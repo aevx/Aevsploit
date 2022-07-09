@@ -17,7 +17,7 @@ apt install git python -y
 
 ```
 git clone https://github.com/aevx/Aevsploit```
-
+```
 ```
 cd Aevsploit
 ```
@@ -26,7 +26,7 @@ cd Aevsploit
 python setup.py
 ```
 
-### A
+### Çalıştırmak
 
 ```
 python aevsploit.py
