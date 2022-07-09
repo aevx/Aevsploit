@@ -7,4 +7,4 @@ https://www.hizliresim.com/7am7siz
 
 ### Kurulum
 
-** a
+copyCodeBlock('<div>Thundercats</div>')
