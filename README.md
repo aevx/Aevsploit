@@ -6,6 +6,7 @@
 
 
 ### Kurulum
+
 ```
 cd && rm -rf Aevsploit
 ```
@@ -25,7 +26,8 @@ cd Aevsploit
 python setup.py
 ```
 
-### Çalıştırmak
+### Calıstırmak
+
 ```
 python aevsploit.py
 ```
