@@ -1,4 +1,4 @@
-# Aevsploit
+# Aevsploit V1
 
 ##### İçindekiler;
 
@@ -31,3 +31,7 @@ python setup.py
 ```
 python aevsploit.py
 ```
+
+#### Bağış
+
+_Papara_
