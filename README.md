@@ -26,7 +26,7 @@ cd Aevsploit
 python setup.py
 ```
 
-### Calıstırmak
+### A
 
 ```
 python aevsploit.py
