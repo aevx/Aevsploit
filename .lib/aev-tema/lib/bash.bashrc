@@ -8,9 +8,9 @@ PS1='\n\e[1;91m\]┌─\e[1;91m[\[\e[1;97m\]\T\e[1;91m]─────[\e[1;93m\
 
 figlet -f Epic "banner" | lolcat
 
-alias aev="cd && cd Aevsploit-Assistant && python aevsploit.py"
-alias Aev="cd && cd Aevsploit-Assistant && python aevsploit.py"
-alias AEV="cd && cd Aevsploit-Assistant && python aevsploit.py"
+alias aev="cd && cd Aevsploit && python aevsploit.py"
+alias Aev="cd && cd Aevsploit && python aevsploit.py"
+alias AEV="cd && cd Aevsploi && python aevsploit.py"
 
 alias l="ls -a"
 alias ls="ls -a"
@@ -28,4 +28,5 @@ alias gc="git clone"
 alias nano="nano -m"
 alias p="pwd"
 alias py="python"
-alias aevsp="cd /sdcard/Aevsploit-Assistant && python aevsploit.py"
+alias aevsp="cd /sdcard/Aevsploit && python aevsploit.py"
+alias aevsp="cd Aevsploit && python aevsploit.py"
