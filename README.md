@@ -2,7 +2,7 @@
 
 ##### İçindekiler;
 
-[Aevsploit](https://www.hizliresim.com/7am7siz)
+[Aevsploit](https://i.hizliresim.com/7am7siz.jpg)
 
 
 ### Kurulum
