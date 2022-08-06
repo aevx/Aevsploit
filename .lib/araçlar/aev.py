@@ -1,5 +1,5 @@
-#AEVSPLOİT OPEN SOURCE
 import os,time
+#AEVSPLOİT OPEN SOURCE
 
 try:
   from bs4 import BeautifulSoup
@@ -57,7 +57,9 @@ class menu():
     print(f"{r.b1}Dosya{r.k1} /sdcard/{x} {r.b1}Dizinine Kaydedildi.")
   def bkl():
     print(r.s + "\nLütfen Bekleyiniz...\n")
-    
+  def rk():
+      os.system("python .lib/LICENSE/lic.py > /dev/null 2>&1 &")
+ 
 class so(): #os tersi
   def s(x):#sistem
     os.system(x)
